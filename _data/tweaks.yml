@@ -1,3 +1,8 @@
+- name: Snapbreak
+  description: Snapbreak is a Snapchat tweak that allow you to save/upload media, disable screenshots and much more. 
+  bundleid: com.kanji.snapbreaknotd
+  icon: default
+
 - name: Shadow
   description: Shadow is a new Snapchat tweak that is aimed to replace Snapbreak.
   bundleid: com.kanji.shadow
